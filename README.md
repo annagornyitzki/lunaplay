@@ -3,7 +3,7 @@
 A modern games portal featuring three classic games built with React + Vite. Play Tic Tac Toe, Snake, and Connect 4 with beautiful UI and smooth gameplay.
 
 <div align="center">
-  <img src="https://github.com/annagornyitzki/connect4/blob/main/lunaplay.png?raw=true" width="550"/>
+  <img src="https://github.com/annagornyitzki/lunaplay/blob/main/lunaplay.png?raw=true" width="550"/>
 </div>
 
 ## Live Demo
