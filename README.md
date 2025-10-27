@@ -83,19 +83,22 @@ The built files will be in the `dist` folder, ready for deployment.
 
 ## 🎮 Game Details
 
-### 🎯 Tic Tac Toe
+### Tic Tac Toe
+**Tic Tac Toe**: [@annagornyitzki](https://github.com/annagornyitzki/tictactoe)
 - **AI Opponent**: Smart random move selection
 - **Responsive Design**: Works on all screen sizes
 - **Auto Restart**: Games restart after completion
 - **Visual Feedback**: Winning combinations highlighted
 
-### 🐍 Snake
+### Snake
+**Snake**: [@annagornyitzki](https://github.com/annagornyitzki/snake)
 - **Controls**: Arrow keys or WASD
 - **High Score**: Persistent local storage
 - **Game Over Screen**: Press Enter to restart
 - **Responsive Canvas**: Scales with screen size
 
-### 🔴 Connect 4
+### Connect 4
+**Connect 4**: [@annagornyitzki](https://github.com/annagornyitzki/connect4)
 - **Advanced AI**: Minimax algorithm with alpha-beta pruning
 - **Strategic Gameplay**: 4-depth lookahead for challenging AI
 - **Visual Feedback**: Smooth piece dropping animations
@@ -139,7 +142,7 @@ lunaplay-games/
 └── README.md
 ```
 
-## 🎨 Customization
+## Customization
 
 ### Colors
 The main brand colors can be modified in [`src/index.css`](src/index.css) and [`src/App.css`](src/App.css):
@@ -155,61 +158,21 @@ The main brand colors can be modified in [`src/index.css`](src/index.css) and [`
 ### Games
 Each game is self-contained in the [`public/games`](public/games) directory and can be modified independently.
 
-## 🚀 Deployment
+Look at these GitHub Repos to learn about each individual game:
+**Snake**: [@annagornyitzki](https://github.com/annagornyitzki/snake)
+**Tic Tac Toe**: [@annagornyitzki](https://github.com/annagornyitzki/tictactoe)
+**Connect 4**: [@annagornyitzki](https://github.com/annagornyitzki/connect4)
 
-### Netlify (Current)
-This project is deployed on Netlify at [lunaplay-games.netlify.app](https://lunaplay-games.netlify.app/)
-
-To deploy your own version:
-1. Build the project: `npm run build`
-2. Drag the `dist` folder to [Netlify Deploy](https://app.netlify.com/drop)
-
-### Other Platforms
-- **Vercel**: Connect GitHub repo for automatic deployments
-- **GitHub Pages**: Enable in repository settings
-- **Firebase Hosting**: Use Firebase CLI
-
-## 🔧 Development
-
-### Available Scripts
-
-```bash
-npm run dev      # Start development server
-npm run build    # Build for production
-npm run preview  # Preview production build
-npm run lint     # Run ESLint
-```
-
-### Adding New Games
-
-1. Create game folder in [`public/games/`](public/games)
-2. Add game to the [`games`](src/App.jsx) array in [`App.jsx`](src/App.jsx)
-3. Include screenshot in [`src/assets/screenshots/`](src/assets/screenshots)
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- **React Team** - For the excellent React framework
-- **Vite Team** - For the fast build tool
-- **Netlify** - For free hosting and deployment
-- **Google Fonts** - For the Poppins font
-
-## 📞 Contact
+## Contact
 
 - **Website**: [lunaplay-games.netlify.app](https://lunaplay-games.netlify.app/)
-- **GitHub**: [@yourusername](https://github.com/yourusername)
+- **GitHub**: [@annagornyitzki](https://github.com/annagornyitzki)
 
 ---
 
-⭐ **Enjoy playing LunaPlay Games!** ⭐
+**Enjoy playing LunaPlay Games!**
