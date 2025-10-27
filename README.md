@@ -164,8 +164,11 @@ The main brand colors can be modified in [`src/index.css`](src/index.css) and [`
 Each game is self-contained in the [`public/games`](public/games) directory and can be modified independently.
 
 Look at these GitHub Repos to learn about each individual game:
+
 **Snake**: [@annagornyitzki](https://github.com/annagornyitzki/snake)
+
 **Tic Tac Toe**: [@annagornyitzki](https://github.com/annagornyitzki/tictactoe)
+
 **Connect 4**: [@annagornyitzki](https://github.com/annagornyitzki/connect4)
 
 
