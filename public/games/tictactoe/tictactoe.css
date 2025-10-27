@@ -1,0 +1,64 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    color: #4569AD;
+    text-align: center;
+    background-image:url("tictactoe-background.jpg");
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+}
+
+
+#restartBtn {
+    background-color: #4569AD;
+    color: #fff;
+    border-radius: 6px;
+    border: 3px solid white;
+    padding: 10px 25px;
+    font-size: 1.2em;
+    font-family: 'Poppins', sans-serif;
+    cursor: pointer;
+    margin-bottom: 20px;
+    transition: background 0.2s, color 0.2s;
+}
+
+#restartBtn:hover {
+    background-color: #8EA2D7;
+    color: white;
+}
+
+#board{
+    width: 450px;
+    height: 450px;
+
+    background-color: white;
+    border: 3px solid #4569AD;
+
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.tile{
+    width: 147px;
+    height: 147px;
+
+    font-size: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.horizontal-line{
+    border-bottom: 3px solid #4569AD;
+}
+
+.vertical-line{
+    border-right: 3px solid #4569AD;
+}
+
+.winner{
+    background-color: #daf7ee;
+    color: #4ebf77;
+}

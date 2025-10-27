@@ -1,0 +1,58 @@
+body{
+    font-family:'Poppins', sans-serif;
+    color: #027e48;
+    text-align: center;
+    background-image:url("connect4-background2.jpg");
+    background-color: #cdefe0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+}
+
+#board {
+    height: 540px;
+    width: 630px;
+
+    background-color: #426cf5;
+    border: 10px solid navy;
+
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.tile {
+    height: 70px;
+    width: 70px;
+    margin: 5px;
+
+    background-color: white;
+    border-radius: 50%;
+    border: 5px solid navy;
+}
+
+.red-piece{
+    background-color: red;
+}
+
+.yellow-piece{
+    background-color: yellow;
+}
+
+#restartBtn {
+    background-color: #027e48;
+    color: white;
+    border-radius: 6px;
+    border: 3px solid white;
+    padding: 8px 20px;
+    font-size: 1.2em;
+    cursor: pointer;
+    margin-bottom: 20px;
+    transition: background 0.2s ease, color 0.2s ease;
+}
+
+#restartBtn:hover {
+    background-color: #11a866;
+    color: white;
+}
