@@ -40,7 +40,9 @@ A modern games portal featuring three classic games built with React + Vite. Pla
 ## Screenshots
 
 ### Portal Homepage
-![LunaPlay Portal](./docs/portal-screenshot.png)
+<div align="center">
+  <img src="https://github.com/annagornyitzki/lunaplay/blob/main/lunaplay.png?raw=true" width="400"/>
+</div>
 
 ### Games
 | Tic Tac Toe | Snake | Connect 4 |
