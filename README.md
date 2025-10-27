@@ -1,31 +1,30 @@
-# lunaplay
-# 🎮 LunaPlay Games Portal
+# LunaPlay Games
 
-A modern, responsive games portal featuring three classic games built with React + Vite. Play Tic Tac Toe, Snake, and Connect 4 with beautiful UI and smooth gameplay.
+A modern games portal featuring three classic games built with React + Vite. Play Tic Tac Toe, Snake, and Connect 4 with beautiful UI and smooth gameplay.
 
-## 🚀 Live Demo
+## Live Demo
 
-**🌐 [Play Now - lunaplay-games.netlify.app](https://lunaplay-games.netlify.app/)**
+**[Play Now - lunaplay-games.netlify.app](https://lunaplay-games.netlify.app/)**
 
-## 🎯 Features
+## Features
 
-- **🎮 Three Classic Games**
+- **Three Classic Games**
   - **Tic Tac Toe** - Play against AI with smart algorithms
   - **Snake** - Classic arcade game with high score tracking
   - **Connect 4** - Strategic game with advanced minimax AI
 
-- **🎨 Modern Design**
+- **Modern Design**
   - Responsive layout for all devices
   - Custom blue color scheme
   - Smooth animations and transitions
   - Poppins font for clean typography
 
-- **⚡ Fast Performance**
+- ** Fast Performance**
   - Built with React + Vite
   - Optimized production builds
   - Instant loading and smooth gameplay
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend**: React 19, JavaScript ES6+
 - **Build Tool**: Vite
@@ -34,7 +33,7 @@ A modern, responsive games portal featuring three classic games built with React
 - **Deployment**: Netlify
 - **Font**: Google Fonts (Poppins)
 
-## 📱 Screenshots
+## Screenshots
 
 ### Portal Homepage
 ![LunaPlay Portal](./docs/portal-screenshot.png)
@@ -44,7 +43,7 @@ A modern, responsive games portal featuring three classic games built with React
 |-------------|-------|-----------|
 | ![Tic Tac Toe](./src/assets/screenshots/tictactoe-gameplay.png) | ![Snake](./src/assets/screenshots/snake-gameplay.png) | ![Connect 4](./src/assets/screenshots/connect4-gameplay.png) |
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Node.js 16+ 
@@ -81,7 +80,7 @@ npm run build
 
 The built files will be in the `dist` folder, ready for deployment.
 
-## 🎮 Game Details
+## Game Details
 
 ### Tic Tac Toe
 **Tic Tac Toe**: [@annagornyitzki](https://github.com/annagornyitzki/tictactoe)
@@ -104,7 +103,7 @@ The built files will be in the `dist` folder, ready for deployment.
 - **Visual Feedback**: Smooth piece dropping animations
 - **Win Detection**: All directions (horizontal, vertical, diagonal)
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 lunaplay-games/
@@ -164,7 +163,7 @@ Look at these GitHub Repos to learn about each individual game:
 **Connect 4**: [@annagornyitzki](https://github.com/annagornyitzki/connect4)
 
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
